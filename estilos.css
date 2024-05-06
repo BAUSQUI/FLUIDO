@@ -38,7 +38,7 @@ button {
     flex-direction: row; /* Establece la dirección de los elementos como fila */
     position: absolute; /* Posicionamiento absoluto */
     top: 600px; /* Distancia desde la parte inferior */
-    left: 1250px; /* Distancia desde la izquierda */
+    left: 100px; /* Distancia desde la izquierda */
 
 }
 
@@ -71,6 +71,6 @@ button {
     flex-direction: row; /* Establece la dirección de los elementos como fila */
     position: absolute; /* Posicionamiento absoluto */
     top: 625px; /* Distancia desde la parte inferior */
-    left: 1250px; /* Distancia desde la izquierda */
+    left: 100px; /* Distancia desde la izquierda */
 
 }
